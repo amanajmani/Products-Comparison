@@ -5,5 +5,5 @@ A project built on ReactJs to compare products based on various filters
 Clone the repository and run this project using the following command
 
 ### `npm start`
-for Running the app in the development mode.
+for Running the app in development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
