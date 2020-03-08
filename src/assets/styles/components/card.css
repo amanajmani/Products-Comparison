@@ -1,0 +1,54 @@
+.card {
+    background: #ffffff;
+    flex: 1;
+}
+
+.image_hover {
+    opacity: 0.5;
+}
+
+.card_image {
+    width: 200px;
+}
+
+.card_details {
+    position: absolute;
+    top: 36%;
+    margin-left: 2%;
+}
+
+.card_details button {
+    padding: 1em 3em;
+    color: #00A86B;
+    background: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 0.9em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.card_content {
+    padding: 1.2em 0.4em;
+}
+
+.card_content p {
+    color: #A0A0A0;
+    font-size: 0.8em;
+}
+
+.card ul {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0.2em;
+}
+
+li:nth-child(2) { 
+    color: #00A86B;
+    font-weight: 600;
+}
+
+li:nth-child(1) { 
+    font-weight: 600;
+}

@@ -1,0 +1,53 @@
+.table {
+  background-color: #ffffff;
+  border-radius: 5px;
+  overflow: hidden;
+  font-size: 1.1em;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.sub_heading {
+  background-color: #f1f1f1;
+  border: 0.1em solid rgb(238, 238, 238);
+  text-align: left;
+  padding-left: 1em;
+}
+
+.colors span{
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+  margin-right: 5px;
+  border-radius: 100%;
+}
+
+.circle-red {
+  background-color: rgb(197, 56, 56);
+}
+
+.circle-green {
+  background-color: #00A86B;
+}
+
+.circle-blue {
+  background-color: rgb(95, 95, 201);
+}
+
+tr > td,
+tr > th 
+{
+  padding-top: 1.2em;
+  padding-bottom: 1.2em;
+  text-align: center;
+}
+
+.condition td {
+  color: #fff;
+  font-weight: 600;
+}
+
+.vendors ul li {
+  font-weight: 100;
+  font-size: 0.8em;
+}
